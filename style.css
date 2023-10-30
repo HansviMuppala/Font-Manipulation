@@ -1,0 +1,31 @@
+.heading{
+    font-size: 20px;
+    box-shadow: 7px 7px 7px darkgreen;
+}
+.heading:hover{
+    background: linear-gradient(yellowgreen, chartreuse, lime, limegreen, #0bda51 )
+}
+
+.footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: lightsteelblue;
+    line-height: 3;
+    text-align: center;
+
+}
+
+.footer:hover{
+    color: blueviolet;
+    background-color:mediumorchid;
+    font-family:Times New Roman;
+    font-size: 17px;
+}
+
+canvas{
+    border-color: palevioletred;
+    border-radius: 20px;
+    background-color: lightcyan;
+}
